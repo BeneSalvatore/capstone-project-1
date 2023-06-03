@@ -1,0 +1,15 @@
+body {
+    margin: 5%;
+    margin: 5%;
+}
+
+div {
+    background-color:darkgray;
+    padding: 5%;
+    border-color: brown;
+    border: 20pt;
+}
+
+h1 {
+    text-decoration: underline;
+}
