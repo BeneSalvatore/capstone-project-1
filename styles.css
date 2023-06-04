@@ -2,11 +2,12 @@ body {
     margin: 1%;
 }
 
-div {
+.myclass {
     background-color:darkgray;
-    padding: 5%;
+    padding: 5pt;
     border-color: brown;
     border: 20pt;
+    border-radius: 10pt;
 }
 
 h1 {
