@@ -1,15 +1,35 @@
 body {
     margin: 1%;
+    color: #27374D;
+    background-color: #526D82;
+    font-family: 'Roboto Mono', monospace;
 }
 
 .myclass {
-    background-color:darkgray;
+    background-color: #9DB2BF ;
+    border: 5pt solid #DDE6ED;
+    border-radius: 20pt;
+    overflow: hidden;
+
+}
+
+hr {
+    color: 4F709C;
+}
+
+.section1 {
+    background-color: #DDE6ED;
+}
+
+.section {
     padding: 5pt;
-    border-color: brown;
-    border: 20pt;
-    border-radius: 10pt;
+    margin: 0pt;
 }
 
 h1 {
     text-decoration: underline;
+}
+
+footer {
+    color: #DDE6ED;
 }
